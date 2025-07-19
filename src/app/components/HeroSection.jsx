@@ -6,7 +6,7 @@ import { TypeAnimation } from "react-type-animation"
 
 const HeroSection = () => {
     return (
-        <section className='py-14'>
+        <section className='py-14 lg:py-18'>
             <div className='grid grid-cols-1 sm:grid-cols-12'>
                 <motion.div
                     initial={{ opacity: 0, scale: 0.5 }}
