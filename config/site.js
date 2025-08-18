@@ -5,7 +5,7 @@ const siteConfig = {
   ogImage: 'https://media.graphassets.com/btAhb4T16p39VY5zmwHA',
   ogType: 'website',
   author: 'Trần Tấn Đạt',
-  domain: '',
+  domain: 'https://trantandat-portfolio.vercel.app/',
 };
 
 module.exports = siteConfig;
