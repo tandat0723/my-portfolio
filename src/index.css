@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+* {
+    font-family: cursive
+}
+
 :root {
     --gradient-primary: linear-gradient(90deg, #f4864d 20%, #d73030 30%, #dc3232 70%, #f6793b 80%);
     --animate-shine: shine 3s ease-in-out infinite alternate;
